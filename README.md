@@ -1,0 +1,1 @@
+# Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer-
