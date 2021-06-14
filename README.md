@@ -23,6 +23,11 @@ C. Edge Impulse Website (Ignore if you are using our trained model/code)
 D. Deployment Stage
 
 
+
+
+
+
+
 Steps by Steps Guide:
 A. Environment setup (For Windows)
 1. First, install STM32CubeIDE 1.6.0 for Windows 64-bits from https://www.st.com/en/development-tools/stm32cubeide.html and STlink Driver from https://www.st.com/en/development-tools/stsw-link009.html so that your Nucleo Board can be detected.
