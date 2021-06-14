@@ -13,9 +13,13 @@ generated code as Cube.MX CMSIS Pack.
 
 
 Contents of steps:
+
 A. Environment setup (For Windows)
+
 B. Data Forwarding 3-axis RAW data for data collection on Edge Impulse Website (Ignore if you are using our trained model/code)
+
 C. Edge Impulse Website (Ignore if you are using our trained model/code)
+
 D. Deployment Stage
 
 
