@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/52226621/121917080-52d5c900-cd67-11eb-99ad-4ceb38b39370.PNG)
 Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer Project. This project will receive a repetetive motion and recognise it as a certain hand gesture and display out as word.
 
 
