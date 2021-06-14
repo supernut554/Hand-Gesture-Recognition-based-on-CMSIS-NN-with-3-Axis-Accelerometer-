@@ -1,6 +1,5 @@
 @settings {
   font-size: 100;
-  Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer Project. This project will receive a repetetive motion and recognise it as a certain hand gesture and display out as word.
 }
 Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer Project. This project will receive a repetetive motion and recognise it as a certain hand gesture and display out as word.
 
