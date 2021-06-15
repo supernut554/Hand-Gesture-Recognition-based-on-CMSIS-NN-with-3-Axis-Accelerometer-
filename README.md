@@ -121,9 +121,12 @@ Once completed configuration, click save parameter.
 
 7. Once you have 3 blocks and trained model, you can do a live classification which using our previous test data set or live demo to test the trained model. Once satisfied with the performance, you may proceed to deploy the code for implementation.
 
-8. At "Deployment" tab, choose "Cube.MS CMSIS-Pack" and click "Build", the CMSIS-pack are downloaded and a detailed step-by-step instruction will be prompted.
+8. At "Deployment" tab, choose "Cube.MS CMSIS-Pack" and click "Build", the CMSIS-pack are downloaded and a detailed step-by-step instruction will be prompted. You can follow the guide from:https://docs.edgeimpulse.com/docs/using-cubeai
 
 ![CubeMX](https://user-images.githubusercontent.com/52226621/122066205-1ff20a80-ce25-11eb-857b-4e5ce3a860d5.PNG)
+
+![Integrate](https://user-images.githubusercontent.com/52226621/122068928-5f215b00-ce27-11eb-9920-75aa9ab9a57d.PNG)
+
 
 
 D. Deployment Stage
@@ -154,3 +157,5 @@ https://docs.edgeimpulse.com/docs/cli-installation
 https://docs.edgeimpulse.com/docs/cli-data-forwarder
 4. Deployment on Edge Impulse CLI:
 https://docs.edgeimpulse.com/docs/cli-run-impulse
+5. Integrade CMSIS Pack into Board Tutorial:
+https://docs.edgeimpulse.com/docs/using-cubeai
