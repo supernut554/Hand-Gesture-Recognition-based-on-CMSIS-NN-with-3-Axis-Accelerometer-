@@ -54,7 +54,11 @@ B. Data Forwarding 3-axis RAW data for data collection on Edge Impulse Website (
 
 ![Untitled](https://user-images.githubusercontent.com/52226621/122063258-ad802b00-ce22-11eb-949f-12249a913616.png)
 
-it will pop out a window so that you can put the path to downloaded code and click Finish. From Project Explorer, Find 0603_Microp > Core > Src > main.cpp and double click main.cpp.
+it will pop out a window so that you can put the path to downloaded code and click Finish. 
+
+![import](https://user-images.githubusercontent.com/52226621/122068432-fc2fc400-ce26-11eb-9c9e-0e3bd549f070.PNG)
+
+From Project Explorer, Find 0603_Microp > Core > Src > main.cpp and double click main.cpp.
 
 ![Capture](https://user-images.githubusercontent.com/52226621/122063305-b96bed00-ce22-11eb-9b20-19b7bcb5c5d3.PNG)
 
