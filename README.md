@@ -3,8 +3,11 @@ Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer 
 
 TWO Major Hardwares Utilised:
 1. STM32F446RE (Nucleo-F446RE) will be used as the embedded board for this application
+
 ![nucleo](https://user-images.githubusercontent.com/52226621/122067577-42d0ee80-ce26-11eb-8dec-a781199fe3b2.PNG)
+
 2. ADXL-337 accelerometer will be connect to Nucleo board to provide 12-bit ADC signal at each axis data. It consists of 3 Data-Pins (X_OUT, Y_OUT and Z_OUT)
+
 ![ADXL337](https://user-images.githubusercontent.com/52226621/122067392-20d76c00-ce26-11eb-8e0a-bc097b66dd7f.PNG)
 
 
