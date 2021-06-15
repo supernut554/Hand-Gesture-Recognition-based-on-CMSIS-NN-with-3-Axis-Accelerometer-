@@ -1,5 +1,7 @@
 Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer Project. This project will receive a repetetive motion and recognise it as a certain hand gesture and display out as word.
 
+![Poster](https://user-images.githubusercontent.com/52226621/122069488-d0f9a480-ce27-11eb-8666-8573a7644a97.PNG)
+
 
 TWO Major Hardwares Utilised:
 1. STM32F446RE (Nucleo-F446RE) will be used as the embedded board for this application
@@ -34,7 +36,9 @@ ________________________________________________________________________________
 
 
 Steps by Steps Guide:
+
 A. Environment setup (For Windows)
+
 1. First, install STM32CubeIDE 1.6.0 for Windows 64-bits from https://www.st.com/en/development-tools/stm32cubeide.html and STlink Driver from https://www.st.com/en/development-tools/stsw-link009.html so that your Nucleo Board can be detected.
  
 2. Once STM32 Cube IDE are successfully setup. You can try to build an empty code and flash into Nucleo Board to verify your board are connected successfully.
