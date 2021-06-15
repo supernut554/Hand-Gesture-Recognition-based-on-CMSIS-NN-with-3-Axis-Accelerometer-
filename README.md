@@ -2,6 +2,7 @@ Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer 
 
 ![Poster](https://user-images.githubusercontent.com/52226621/122069488-d0f9a480-ce27-11eb-8666-8573a7644a97.PNG)
 
+Video: https://www.youtube.com/watch?app=desktop&v=Rb_GKFaRMTA&feature=youtu.be&ab_channel=JiaHuiLim
 
 TWO Major Hardwares Utilised:
 1. STM32F446RE (Nucleo-F446RE) will be used as the embedded board for this application
