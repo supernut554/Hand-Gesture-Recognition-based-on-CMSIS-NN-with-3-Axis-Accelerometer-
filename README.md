@@ -4,6 +4,8 @@ Welcome to Hand-Gesture-Recognition-based-on-CMSIS-NN-with-3-Axis-Accelerometer 
 
 Video: https://www.youtube.com/watch?app=desktop&v=Rb_GKFaRMTA&feature=youtu.be&ab_channel=JiaHuiLim
 
+_____________________________________________________________________________________________________________________________________
+
 TWO Major Hardwares Utilised:
 1. STM32F446RE (Nucleo-F446RE) will be used as the embedded board for this application
 
@@ -13,12 +15,18 @@ TWO Major Hardwares Utilised:
 
 ![ADXL337](https://user-images.githubusercontent.com/52226621/122067392-20d76c00-ce26-11eb-8e0a-bc097b66dd7f.PNG)
 
+Connection:
+
+![connection](https://user-images.githubusercontent.com/52226621/122070679-c095f980-ce28-11eb-81f6-cf1f9a6b9dc0.PNG)
+
+______________________________________________________________________________________________________________________________________
 
 Software of Website utilised:
 1. https://www.edgeimpulse.com/ will be used to collect train/test data, generate spectral feature block code, train and validate Neural Network and export the
 generated code as Cube.MX CMSIS Pack.
 2. STM32 Cube IDE 1.6.0
 
+______________________________________________________________________________________________________________________________________
 
 Contents of steps:
 
@@ -31,7 +39,7 @@ C. Edge Impulse Website (Ignore if you are using our trained model/code)
 D. Deployment Stage
 
 
-______________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________
 
 
 
